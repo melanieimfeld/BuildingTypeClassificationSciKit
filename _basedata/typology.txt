@@ -1,0 +1,4 @@
+type,value
+Single detached building,1100Detached building block,1200Single garage,1300Double garage,1400Collective garage,1500Half of duplexhouse,2100Rowhouse,2200House in a row,2300Connected building group,2400Perimeterblock,2500Open shed,4000
+
+

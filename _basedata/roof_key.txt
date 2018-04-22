@@ -1,0 +1,16 @@
+name, type
+Flat roof,1000
+Single pitch roof, 2100
+Shifted single pitch roof, 2200
+Double pitch roof, 3100
+Hip roof, 3200
+Half-hipped roof, 3300
+Mansard roof, 3400
+Tent roof, 3500
+Cone roof, 3600
+Dome roof, 3700
+Sawtooth roof, 3800
+Arched roof, 3900
+Tower roof, 4000
+Hybrid, 5000
+Else, 9999

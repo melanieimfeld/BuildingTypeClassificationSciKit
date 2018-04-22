@@ -1,0 +1,14 @@
+name, description, type
+FUNC, building function, cat
+STOR, number of stories, ordinal
+ROOF, rooftop, cat
+AREA, building footprint msqrd, discrete
+CONS, construction type, cat
+YEAR, year built, ordinal
+ID, polygon id, ordinal
+PERI, polygon perimeter in m, discrete
+VERT, polygon vertices, ordinal
+RADI, radius of largest enclosed circle, discrete
+RADE, radius of smallest enclosing circle, discrete
+CENX, easting of polygon centroid?, coord
+CENY, northing of polygon centroid?, coord 

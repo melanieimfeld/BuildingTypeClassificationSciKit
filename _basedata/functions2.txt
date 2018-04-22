@@ -1,0 +1,232 @@
+,type,value
+0,Wohngebaeude,1000
+1,Wohnhaus,1010
+2,Wohnheim,1020
+3,Kinderheim,1021
+4,Seniorenheim,1022
+5,Schwesternwohnheim,1023
+6,Studenten-Schuelerwohnheim,1024
+7,Schullandheim,1025
+8,Gemischt genutztes Gebaeude mit Wohnen,1100
+9,Wohngebaeude mit Gemeinbedarf,1110
+10,Wohngebaeude mit Handel und Dienstleistungen,1120
+11,Wohn- und Verwaltungsgebaeude,1121
+12,Wohn- und Buerogebaeude,1122
+13,Wohn- und Geschaeftsgebaeude,1123
+14,Wohngebaeude mit Gewerbe und Industrie,1130
+15,Wohn- und Betriebsgebaeude,1131
+16,Land- und forstwirtschaftliches Wohngebaeude,1210
+17,Land- und forstwirtschaftliches Wohn- und Betriebsgebaeude,1220
+18,Bauernhaus,1221
+19,Wohn- und Wirtschaftsgebaeude,1222
+20,Forsthaus,1223
+21,Gebaeude zur Freizeitgestaltung,1310
+22,Ferienhaus,1311
+23,Wochenendhaus,1312
+24,Gartenhaus,1313
+25,Gebaeude für Wirtschaft oder Gewerbe,2000
+26,Gebaeude für Handel und Dienstleistungen,2010
+27,Buerogebaeude,2020
+28,Kreditinstitut,2030
+29,Versicherung,2040
+30,Geschaeftsgebaeude,2050
+31,Kaufhaus,2051
+32,Einkaufszentrum,2052
+33,Markthalle,2053
+34,Laden,2054
+35,Kiosk,2055
+36,Apotheke,2056
+37,Messehalle,2060
+38,Gebaeude für Beherbergung,2070
+39,Hotel Motel Pension,2071
+40,Jugendherberge,2072
+41,Huette mit Uebernachtungsmoeglichkeit,2073
+42,Campingplatzgebaeude,2074
+43,Gebaeude für Bewirtung,2080
+44,Gaststaette Restaurant,2081
+45,Huette ohne Uebernachtungsmoeglichkeit,2082
+46,Kantine,2083
+47,Freizeit- und Vergnuegungsstaette,2090
+48,Festsaal,2091
+49,Kino,2092
+50,Kegel- Bowlinghalle,2093
+51,Spielkasino,2094
+52,Gebaeude für Gewerbe und Industrie,2100
+53,Produktionsgebaeude,2110
+54,Fabrik,2111
+55,Betriebsgebaeude,2112
+56,Brauerei,2113
+57,Brennerei,2114
+58,Werkstatt,2120
+59,Saegewerk,2121
+60,Tankstelle,2130
+61,Waschstrasse Waschanlage Waschhalle,2131
+62,Gebaeude fuer Vorratshaltung,2140
+63,Kuehlhaus,2141
+64,Speichergebaeude,2142
+65,Lagerhalle Lagerschuppen Lagerhaus,2143
+66,Speditionsgebaeude,2150
+67,Gebaeude fuer Forschungszwecke,2160
+68,Gebaeude fuer Grundstoffgewinnung,2170
+69,Bergwerk,2171
+70,Saline,2172
+71,Gebaeude fuer betriebliche Sozialeinrichtung,2180
+72,Sonstiges Gebaeude fuer Gewerbe und Industrie,2200
+73,Muehle,2210
+74,Windmuehle,2211
+75,Wassermuehle,2212
+76,Schoepfwerk,2213
+77,Wetterstation,2220
+78,Gebaeude fuer Handel und Dienstleistung mit Wohnen,2310
+79,Gebaeude fuer Gewerbe und Industrie mit Wohnen,2320
+80,Betriebsgebaeude zu Verkehrsanlagen (allgemein),2400
+81,Betriebsgebaeude fuer Straßenverkehr,2410
+82,Strassenmeisterei,2411
+83,Wartehalle,2412
+84,Betriebsgebaeude fuer Schienenverkehr,2420
+85,Bahnwaerterhaus,2421
+86,Lokschuppen Wagenhalle,2422
+87,Stellwerk Blockstelle,2423
+88,Betriebsgebäude des Güterbahnhofs,2424
+89,Betriebsgebäude für Flugverkehr,2430
+90,Flugzeughalle,2431
+91,Betriebsgebäude für Schiffsverkehr,2440
+92,Werft (Halle),2441
+93,Dock (Halle),2442
+94,Betriebsgebäude zur Schleuse,2443
+95,Bootshaus,2444
+96,Betriebsgebäude zur Seilbahn,2450
+97,Spannwerk zur Drahtseilbahn,2451
+98,Gebäude zum Parken,2460
+99,Parkhaus,2461
+100,Parkdeck,2462
+101,Garage,2463
+102,Fahrzeughalle,2464
+103,Tiefgarage,2465
+104,Gebäude zur Versorgung,2500
+105,Gebäude zur Energieversorgung,2501
+106,Gebäude zur Wasserversorgung,2510
+107,Wasserwerk,2511
+108,Pumpstation,2512
+109,Wasserbehälter,2513
+110,Gebäude zur Elektrizitätsversorgung,2520
+111,Elektrizitätswerk,2521
+112,Umspannwerk,2522
+113,Umformer,2523
+114,Reaktorgebäude,2527
+115,Turbinenhaus,2528
+116,Kesselhaus,2529
+117,Gebäude für Fernmeldewesen,2540
+118,Gebäude an unterirdischen Leitungen,2560
+119,Gebäude zur Gasversorgung,2570
+120,Gaswerk,2571
+121,Heizwerk,2580
+122,Gebäude zur Versorgungsanlage,2590
+123,Pumpwerk (nicht für Wasserversorgung),2591
+124,Gebäude zur Entsorgung,2600
+125,Gebäude zur Abwasserbeseitigung,2610
+126,Gebäude der Kläranlage,2611
+127,Toilette,2612
+128,Gebäude zur Abfallbehandlung,2620
+129,Müllbunker,2621
+130,Gebäude zur Müllverbrennung,2622
+131,Gebäude der Abfalldeponie,2623
+132,Gebäude für Land- und Forstwirtschaft,2700
+133,Land- und forstwirtschaftliches Betriebsgebäude,2720
+134,Scheune,2721
+135,Schuppen,2723
+136,Stall,2724
+137,Scheune und Stall,2726
+138,Stall für Tiergroßhaltung,2727
+139,Reithalle,2728
+140,Wirtschaftsgebäude,2729
+141,Almhütte,2732
+142,Jagdhaus Jagdhütte,2735
+143,Treibhaus Gewächshaus,2740
+144,Treibhaus,2741
+145,Gewächshaus verschiebbar,2742
+146,Gebäude für öffentliche Zwecke,3000
+147,Verwaltungsgebäude,3010
+148,Parlament,3011
+149,Rathaus,3012
+150,Post,3013
+151,Zollamt,3014
+152,Gericht,3015
+153,Botschaft Konsulat,3016
+154,Kreisverwaltung,3017
+155,Bezirksregierung,3018
+156,Finanzamt,3019
+157,Gebäude für Bildung und Forschung,3020
+158,Allgemein bildende Schule,3021
+159,Berufsbildende Schule,3022
+160,Hochschulgebäude (Fachhochschule Universität),3023
+161,Forschungsinstitut,3024
+162,Gebäude für kulturelle Zwecke,3030
+163,Schloss,3031
+164,Theater Oper,3032
+165,Konzertgebäude,3033
+166,Museum,3034
+167,Rundfunk Fernsehen,3035
+168,Veranstaltungsgebäude,3036
+169,Bibliothek Bücherei,3037
+170,Burg Festung,3038
+171,Gebäude für religiöse Zwecke,3040
+172,Kirche,3041
+173,Synagoge,3042
+174,Kapelle,3043
+175,Gemeindehaus,3044
+176,Gotteshaus,3045
+177,Moschee,3046
+178,Tempel,3047
+179,Kloster,3048
+180,Gebäude für Gesundheitswesen,3050
+181,Krankenhaus,3051
+182,Heilanstalt Pflegeanstalt Pflegestation,3052
+183,Ärztehaus Poliklinik,3053
+184,Gebäude für soziale Zwecke,3060
+185,Jugendfreizeitheim,3061
+186,Freizeit- Vereinsheim Dorfgemeinschafts- Bürgerhaus,3062
+187,Seniorenfreizeitstätte,3063
+188,Obdachlosenheim,3064
+189,Kinderkrippe Kindergarten Kindertagesstätte,3065
+190,Asylbewerberheim,3066
+191,Gebäude für Sicherheit und Ordnung,3070
+192,Polizei,3071
+193,Feuerwehr,3072
+194,Kaserne,3073
+195,Schutzbunker,3074
+196,Justizvollzugsanstalt,3075
+197,Friedhofsgebäude,3080
+198,Trauerhalle,3081
+199,Krematorium,3082
+200,Empfangsgebäude,3090
+201,Bahnhofsgebäude,3091
+202,Flughafengebäude,3092
+203,Gebäude zum U-Bahnhof,3094
+204,Gebäude zum S-Bahnhof,3095
+205,Gebäude zum Busbahnhof,3097
+206,Empfangsgebäude Schifffahrt,3098
+207,Gebäude für Erholungszwecke,3200
+208,Gebäude für Sportzwecke,3210
+209,Sport- Turnhalle,3211
+210,Gebäude zum Sportplatz,3212
+211,Badegebäude,3220
+212,Hallenbad,3221
+213,Gebäude im Freibad,3222
+214,Gebäude im Stadion,3230
+215,Gebäude für Kurbetrieb,3240
+216,Badegebäude für medizinische Zwecke,3241
+217,Sanatorium,3242
+218,Gebäude im Zoo,3260
+219,Empfangsgebäude des Zoos,3261
+220,Aquarium Terrarium Voliere,3262
+221,Tierschauhaus,3263
+222,Stall im Zoo,3264
+223,Gebäude im botanischen Garten,3270
+224,Empfangsgebäude des botanischen Gartens,3271
+225,Gewächshaus (Botanik),3272
+226,Pflanzenschauhaus,3273
+227,Gebäude für andere Erholungseinrichtung,3280
+228,Schutzhütte,3281
+229,Touristisches Informationszentrum,3290
+230,Nach Quellenlage nicht zu spezifizieren,9998
