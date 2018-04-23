@@ -14,7 +14,7 @@ Overview Notebook
    &nbsp;&nbsp;5.2 Manual feature selection<br>
 **6. K-nearest Neighbor Classifier**<br>
    &nbsp;&nbsp;6.1 Initial test runs<br>
-   &nbsp;&nbsp;6.2 Inital results<br>
+   &nbsp;&nbsp;6.2 Initial results<br>
    &nbsp;&nbsp;6.3 Gridsearch<br>
 **7. Decision Tree Classifier**<br>
    &nbsp;&nbsp;7.1 Initial test runs<br>
