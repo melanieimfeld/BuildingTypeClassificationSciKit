@@ -6,7 +6,7 @@ Overview Notebook
 2. Metadata<br>
 3. Cleaning and reshaping the dataset<br>
 4. Exploring the variables** <br>
-    4.1 Target variable <br>
+   &nbsp; 4.1 Target variable <br>
     4.2 Independent variables<br>
     4.3 Key findings after initial analysis<br>
 **5. Preparing the data for classification**<br>
