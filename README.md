@@ -2,9 +2,9 @@
 Does Form follow Function? Case Study Hamburg
 Overview Notebook
 
-**1. Introduction and objective
-2. Metadata
-3. Cleaning and reshaping the dataset
+**1. Introduction and objective<br>
+2. Metadata<br>
+3. Cleaning and reshaping the dataset<br>
 4. Exploring the variables** <br>
     4.1 Target variable <br>
     4.2 Independent variables<br>
@@ -21,6 +21,6 @@ Overview Notebook
     7.2 Gridsearch and pipelining<br>
 **8. Random Forest Classifier**<br>
     8.1 Gridsearch and pipelining<br>
-**9. Key findings
+**9. Key findings<br>
 10. References**
 
