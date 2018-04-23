@@ -8,7 +8,7 @@ Overview Notebook
 4. Exploring the variables** <br>
     4.1 Target variable <br>
     4.2 Independent variables<br>
-    4.3 Key findings after initial analysis
+    4.3 Key findings after initial analysis<br>
 **5. Preparing the data for classification**<br>
     5.1 Dummy variables<br>
     5.2 Manual feature selection<br>
