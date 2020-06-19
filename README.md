@@ -5,10 +5,10 @@ Architects and planners have always assumed that there is a relationship between
 
 # Overview Content Notebook
 
-1.   **Introduction and objective**
-2.   **Metadata**
-**3. Cleaning and reshaping the dataset**
-**4. Exploring the variables**
+1. **Introduction and objective**
+2. **Metadata**
+3. **Cleaning and reshaping the dataset**
+4. **Exploring the variables**
   * 4.1 Target variable
    * 4.1 Target variable
    *  4.3 Key findings after initial analysis
