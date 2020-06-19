@@ -13,16 +13,16 @@ Architects and planners have always assumed that there is a relationship between
    * Independent variable
    * Key findings after initial analysis
 5. **Preparing the data for classification**
-  * Dummy variables
-  * Manual feature selection
+   * Dummy variables
+   * Manual feature selection
 6. **K-nearest Neighbor Classifier**
-  * Initial test runs
-  * Initial results
-  * Gridsearch
+   * Initial test runs
+   * Initial results
+   * Gridsearch
 7. **Decision Tree Classifier**
-  * Initial test runs
-  * Gridsearch and pipelining
+   * Initial test runs
+   * Gridsearch and pipelining
 8. **Random Forest Classifier**
-  * Gridsearch and pipelining
+   * Gridsearch and pipelining
 9. **Key findings**
 10. **References**
