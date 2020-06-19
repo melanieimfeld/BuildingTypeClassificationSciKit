@@ -5,12 +5,21 @@ Architects and planners have always assumed that there is a relationship between
 
 # Overview Content Notebook
 
-**1. Introduction and objective
-1. item 1
-2. item 2
-**2. Metadata
-**3. Cleaning and reshaping the dataset<br>
-**4. Exploring the variables** <br>
+**1. Introduction and objective**
+**2. Metadata**
+**3. Cleaning and reshaping the dataset**
+**4. Exploring the variables**
+**5. Preparing the data for classification**
+**6. K-nearest Neighbor Classifier**
+**7. Decision Tree Classifier**
+**8. Random Forest Classifier**
+**9. Key findings**
+**10. References**
+**2. Metadata**
+**3. Cleaning and reshaping the dataset**
+**4. Exploring the variables**
+
+
    &nbsp;&nbsp;4.1 Target variable <br>
    &nbsp;&nbsp;4.2 Independent variables<br>
    &nbsp;&nbsp;4.3 Key findings after initial analysis<br>
