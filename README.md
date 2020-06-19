@@ -5,10 +5,13 @@ Architects and planners have always assumed that there is a relationship between
 
 # Overview Content Notebook
 
-**1. Introduction and objective**
-**2. Metadata**
+**1.   Introduction and objective**
+**2.   Metadata**
 **3. Cleaning and reshaping the dataset**
 **4. Exploring the variables**
+  * 4.1 Target variable
+   * 4.1 Target variable
+   *  4.3 Key findings after initial analysis
 **5. Preparing the data for classification**
 **6. K-nearest Neighbor Classifier**
 **7. Decision Tree Classifier**
@@ -21,7 +24,7 @@ Architects and planners have always assumed that there is a relationship between
 
 
    &nbsp;&nbsp;4.1 Target variable <br>
-   &nbsp;&nbsp;4.2 Independent variables<br>
+   &nbsp;&nbsp;4.1 Target variable<br>
    &nbsp;&nbsp;4.3 Key findings after initial analysis<br>
 **5. Preparing the data for classification**<br>
    &nbsp;&nbsp;5.1 Dummy variables<br>
