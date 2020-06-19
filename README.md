@@ -9,12 +9,12 @@ Architects and planners have always assumed that there is a relationship between
 2. **Metadata**
 3. **Cleaning and reshaping the dataset**
 4. **Exploring the variables**
-   4.1 Target variable
-   4.1 Target variable
-   4.3 Key findings after initial analysis
+   * 4.1 Target variable
+   * 4.2 Independent variable
+   * 4.3 Key findings after initial analysis
 5. **Preparing the data for classification**
-  5.1 Dummy variables
-  5.2 Manual feature selection
+  * Dummy variables
+  * Manual feature selection
 6. **K-nearest Neighbor Classifier**
  6.1 Initial test runs
  6.2 Initial results
