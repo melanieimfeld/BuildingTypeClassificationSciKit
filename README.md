@@ -1,7 +1,7 @@
 # Building Type Classification (Python SciKit)
 *Does Form follow Function? Case Study Hamburg*
 
-Architects and planners have always assumed that there is a relationship between form and function. This work is investigating if the function of a building can be predicted based on its geometrical attributes by using supervised machine learning techniques. Supervised learning consists in learning the link between two datasets: the observed data X and an external variable y that we are trying to predict, usually called “target” or “labels”
+Architects and planners have always assumed that there is a relationship between form and function. This work is investigating if the function of a building can be predicted based on its geometrical attributes by using supervised machine learning techniques.
 
 # Overview Content Notebook
 
@@ -9,18 +9,23 @@ Architects and planners have always assumed that there is a relationship between
 2. **Metadata**
 3. **Cleaning and reshaping the dataset**
 4. **Exploring the variables**
-  * 4.1 Target variable
-   * 4.1 Target variable
-   *  4.3 Key findings after initial analysis
-**5. Preparing the data for classification**
-**6. K-nearest Neighbor Classifier**
-**7. Decision Tree Classifier**
-**8. Random Forest Classifier**
-**9. Key findings**
-**10. References**
-**2. Metadata**
-**3. Cleaning and reshaping the dataset**
-**4. Exploring the variables**
+  4.1 Target variable
+  4.1 Target variable
+  4.3 Key findings after initial analysis
+5. **Preparing the data for classification**
+  5.1 Dummy variables
+  5.2 Manual feature selection
+6. **K-nearest Neighbor Classifier**
+ 6.1 Initial test runs
+ 6.2 Initial results
+ 6.3 Gridsearch
+7. **Decision Tree Classifier**
+ 7.1 Initial test runs
+ 7.2 Gridsearch and pipelining
+8. **Random Forest Classifier**
+8.1 Gridsearch and pipelining
+9. **Key findings**
+10. **References**
 
 
    &nbsp;&nbsp;4.1 Target variable <br>
